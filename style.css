@@ -1,0 +1,18 @@
+.container{
+margin: 0 auto;
+background-color: #fff;
+width: 560px;
+height: 100vh;
+}
+
+header{
+  text-align: center;
+}
+
+#logo{
+width: 130px;
+}
+
+body{
+  background-color: #eee;
+}
