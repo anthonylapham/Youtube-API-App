@@ -13,11 +13,12 @@ header, section {
 }
 
 section {
-  top: 30px;
+  top: 40px;
 }
 
 #logo {
   width: 130px;
+  padding: 10px;
 }
 
 body {
