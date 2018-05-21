@@ -13,14 +13,45 @@ header, section {
 }
 
 section {
-  top: 40px;
+  top: 70px;
 }
 
 #logo {
   width: 130px;
-  padding: 10px;
+  height: 65px;
 }
 
 body {
   background-color: #00BFFF;
+}
+
+main{
+  padding: 370px 18px 10px;
+  position: relative;
+  left: 390px;
+  top: 10px;
+}
+
+article{
+  display: flex;
+}
+
+
+h4{
+  font-weight: bolder;
+  line-height: .2;
+  position: relative;
+  left: 4px;
+}
+
+p{
+  color: gray;
+  font-weight: bolder;
+  font-size: 12px;
+  position: relative;
+  left: 6px;
+}
+
+.tnail{
+  height: 100px;
 }
