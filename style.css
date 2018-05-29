@@ -27,15 +27,22 @@ body {
 
 main{
   padding: 370px 18px 10px;
-  position: relative;
+  position: absolute;
   left: 390px;
   top: 10px;
 }
 
 article{
   display: flex;
+  align-items: center;
+  padding: 8px 12px;
 }
 
+article:hover{
+  border: 2px;
+  border-color: #cc0099;
+  border-style: solid;
+}
 
 h4{
   font-weight: bolder;
@@ -54,4 +61,8 @@ p{
 
 .tnail{
   height: 100px;
+}
+
+.details{
+  padding: 8px 22px;
 }
